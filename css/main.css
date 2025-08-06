@@ -214,7 +214,6 @@ body {
 }
 .header__logo {
   padding-top: 5px;
-  display: block;
 }
 .header__wrap {
   display: flex;
